@@ -35,6 +35,7 @@ Just a collection of commands for SysAdmins.
 `usermod`
 
 ### File /dir Management 
+`ls`
 `file`
 `touch`
 `mkdir`
@@ -43,6 +44,12 @@ Just a collection of commands for SysAdmins.
 `rm`
 
 ### FileSystem Management 
+
+`df`
+`du`
+`mount`
+
+### Process Management 
 
 ### Logical Volume Manager 
 
