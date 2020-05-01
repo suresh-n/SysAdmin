@@ -1,4 +1,3 @@
-# SysAdmin
 
-## Linux SysAdmin Cheetsheet 
+### Linux SysAdmin Cheetsheet 
 
