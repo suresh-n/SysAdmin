@@ -1,4 +1,4 @@
-# Think SysAdmin  -- Editing in progress 
+# SysAdmin Cheatsheet  -- Editing in progress 
 
 Just a collection of commands for SysAdmins. 
 
@@ -19,13 +19,13 @@ Just a collection of commands for SysAdmins.
 
 ### User Management 
 
-`useradd` or `adduser`    - create a new user or update default new user information 
-`chfn`
-`chsh`
-`passwd`
-`crypt`
-`groupadd`
-`groupdel`
+`useradd` or `adduser`    - Create a new user or update default new user information 
+`chfn`    - Change finger inforomation
+`chsh`    - Change Login shell
+`passwd`  - Change or set passwd
+`crypt`    -    
+`groupadd`    - Create a new Group 
+`groupdel`    - Delete the Group 
 `groupmod`
 `login.defs`
 `newusers`
@@ -42,6 +42,7 @@ Just a collection of commands for SysAdmins.
 `mv`
 `cp`
 `rm`
+`paste`
 
 ### FileSystem Management 
 
@@ -51,9 +52,19 @@ Just a collection of commands for SysAdmins.
 
 ### Process Management 
 
-### Logical Volume Manager 
+`ps`
+`vmstat`
+`lsof`
 
+### Logical Volume Manager 
+`pvcreate`
+`vgcreate`
+`lvcreate`
 ### Network Management 
+`ip`
+`nmcli`
+`nmtui`
+`brctl`
 
 ### Power Management 
 
